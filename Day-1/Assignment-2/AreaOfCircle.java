@@ -11,14 +11,12 @@ public class AreaOfCircle {
      * This method calculates the area of the circle.
      * Use the PI variable defined in the line number 8.
      * 
-     *
+     * @param radius, the radius of the circle
      * @return the area of the circle
      */
-   
     public static double areaOfCircle(double radius) {
-        double area;
-        area=PI*radius*radius;
-    return area;
+        //  Your code goes here....
+        return PI*radius*radius;
     }
 
     /**
@@ -29,8 +27,7 @@ public class AreaOfCircle {
      * @return the perimeter of the circle.
      */
     public static double perimeterOfCircle(double radius) {
-        double perimeter;
-        perimeter=2*PI*radius;
-    return perimeter;
+        //  Your code goes here....
+        return 2*PI*radius;
     }
 }
