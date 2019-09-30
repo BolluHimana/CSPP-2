@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Yahttee",
+            "request": "launch",
+            "mainClass": "Yahttee"
+        }
+    ]
+}
